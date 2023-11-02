@@ -4,7 +4,7 @@ apikey must be stored in process.env.APIKEY
 
 To run:  
 
-$ APIKEY='apikey' node app.js
+$ APIKEY='YourAPIkey' node app.js
 
 Working directory should contain everything in the repository, exactly as it is placed here
 
