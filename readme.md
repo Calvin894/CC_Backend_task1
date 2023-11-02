@@ -6,4 +6,6 @@ To run:
 
 $ APIKEY='apikey' node app.js
 
+Working directory should contain everything in the repository, exactly as it is placed here
+
 Made using NodeJS on WSL
